@@ -23,8 +23,12 @@ Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
 
 ## 5. หน้า fragment show_data
 ### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
+![alt text](https://user-images.githubusercontent.com/61577444/77149378-03e9a700-6ac4-11ea-85ed-4ce9425db3bd.JPG)
 
-## 6. หน้า แสดงGraph
+## 6. หน้า แสดงDialog เพื่อกดยืนยัน
 ### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112372-75d9d600-6a5b-11ea-99ed-0dc670dded23.png)
+![alt text](https://user-images.githubusercontent.com/61577444/77149433-27aced00-6ac4-11ea-9f2e-fdadadb502d6.JPG)
+
+## 7. หน้าแสดง Graph
+### - แสดงกราฟ 3 ชนิด 
+![alt text](https://user-images.githubusercontent.com/61577444/77149535-604cc680-6ac4-11ea-9e39-2aab5ef1ff53.JPG)
