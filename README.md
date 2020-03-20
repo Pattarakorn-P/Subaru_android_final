@@ -1,13 +1,12 @@
-# Android Project : Anonymous Chatroom
+# Android Project : Subaru impreza wrx sti detail
 
-## Anonymous Chatroom
-ห้องแชทเรียทาม ไม่ระบุตัวตน แต่ต้องยืนยันตัวตนด้วยเฟสบุคก่อนใช้งานนะ ไม่เก็บข้อมูลผู้ใช้(ยกเว้นข้อความ) มีกราฟเส้น(มอคค่า) มีรีไซเคิลวิว มีริสวิวด้วย 
-
-### เพิ่มเติม
-ฝากกด follow github/supakjack ด้วยครับ เน้นพวก node.js , vue.js , react , angular (frontent js ทั้งหลาย) เป็นหลักงับ พวก socket.io , Restfulapi หรือ docker ก็มีฝากด้วยงับ 
+## intro
+ใช้สำหรับดูข้อมูลรถในแต่ละรุ่น ราคา รวมถึงดูกราฟในการขายทั้งหมด แรงบันดาลใจมาจากชอบรุ่นนี้ในโฉมต่างๆ จึงคิดที่จะนำมาทำโปรเจ็ค
+## องค์ประกอบที่นำมาใช้พัฒนา
+Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
 
 ## 1. หน้าแรก
-### - มี 2 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่ห้องแชท หรือกดดูรายละเอียดใน readme  
+### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น
 ![alt text](https://user-images.githubusercontent.com/61577444/77148059-57a6c100-6ac1-11ea-9cb1-506947f2f908.JPG)
 
 ## 2. หน้าห้องแชท
