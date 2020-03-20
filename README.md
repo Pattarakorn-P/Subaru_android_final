@@ -9,26 +9,22 @@ Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
 ### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น
 ![alt text](https://user-images.githubusercontent.com/61577444/77148833-eb2cc180-6ac2-11ea-8e00-604aee8df995.JPG)
 
-## 2. หน้าห้องแชท
-### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
+## 2. หน้าจอProfile
+### - แสดงรูปภาพและชื่อProfile ของบัญชีFacebook ที่ใช้เข้าระบบ สามารถกดเพื่อเริ่มใช้งานแอพ
+![alt text](https://user-images.githubusercontent.com/61577444/77149162-8d4ca980-6ac3-11ea-9efe-af3631f499d9.JPG)
 
-## 3. หน้า Readme (1/2)
+## 3. หน้าจอ Recycler view
 ### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
-![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
+![alt text](https://user-images.githubusercontent.com/61577444/77149244-ba995780-6ac3-11ea-8b89-ffef5b5fe022.JPG)
 
-## 4. หน้า Readme (2/2)
+## 4. หน้า fragment_detail
 ### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
-![alt text](https://user-images.githubusercontent.com/48548611/77112213-31e6d100-6a5b-11ea-876c-cb7401bb5a8f.png)
+![alt text](https://user-images.githubusercontent.com/61577444/77148059-57a6c100-6ac1-11ea-9cb1-506947f2f908.JPG)
 
-## 5. หน้าดูรายละเอียดย่อยต่อจาก readme (1/3)
+## 5. หน้า fragment show_data
 ### - ส่งค่าจากรีไสเคิลเฉยๆ
 ![alt text](https://user-images.githubusercontent.com/48548611/77112298-59d63480-6a5b-11ea-8cd8-2a16ced476f1.png)
 
-## 6. หน้าดูรายละเอียดย่อยต่อจาก readme (2/3)
+## 6. หน้า แสดงGraph
 ### - ส่งค่าจากรีไสเคิลเฉยๆ
 ![alt text](https://user-images.githubusercontent.com/48548611/77112372-75d9d600-6a5b-11ea-99ed-0dc670dded23.png)
-
-## 7. หน้าดูรายละเอียดย่อยต่อจาก readme (3/3)
-### - ส่งค่าจากรีไสเคิลเฉยๆ
-![alt text](https://user-images.githubusercontent.com/48548611/77112492-af124600-6a5b-11ea-9380-bf44b0989e11.png)
