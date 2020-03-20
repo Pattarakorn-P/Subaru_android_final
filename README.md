@@ -3,7 +3,7 @@
 ## intro
 ใช้สำหรับดูข้อมูลรถในแต่ละรุ่น ราคา รวมถึงดูกราฟในการขายทั้งหมด แรงบันดาลใจมาจากชอบรุ่นนี้ในโฉมต่างๆ จึงคิดที่จะนำมาทำโปรเจ็ค
 ## องค์ประกอบที่นำมาใช้พัฒนา
-Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
+Recycler view,firebase authen,fragment,dialog,MPAndroidChart
 
 ## 1. หน้าแรก
 ### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น(authen)
