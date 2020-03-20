@@ -7,7 +7,7 @@ Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
 
 ## 1. หน้าแรก
 ### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น
-![alt text](https://user-images.githubusercontent.com/61577444/77148059-57a6c100-6ac1-11ea-9cb1-506947f2f908.JPG)
+![alt text](https://user-images.githubusercontent.com/61577444/77148833-eb2cc180-6ac2-11ea-8e00-604aee8df995.JPG)
 
 ## 2. หน้าห้องแชท
 ### - จะแสดงแชททั้งหมด แบบเรียทามได้ สามารถส่งข้ความคุยกันในห้องได้แบบไม่ระุตัวตน สามารถกดล็อคเอาเพื่อกลับไปหน้าหลักได้ 
