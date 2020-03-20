@@ -6,27 +6,27 @@
 Recycler view,firebase authen,fragment,dialog,MPAndroidGraph
 
 ## 1. หน้าแรก
-### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น
+### - เข้าสู่ระบบด้วยบัญชี Facebook เพื่อเข้าใช้งานแอพพลิเคชั่น(authen)
 ![alt text](https://user-images.githubusercontent.com/61577444/77148833-eb2cc180-6ac2-11ea-8e00-604aee8df995.JPG)
 
 ## 2. หน้าจอProfile
-### - แสดงรูปภาพและชื่อProfile ของบัญชีFacebook ที่ใช้เข้าระบบ สามารถกดเพื่อเริ่มใช้งานแอพ
+### - แสดงรูปภาพและชื่อProfile ของบัญชีFacebook ที่ใช้เข้าระบบ สามารถกดเพื่อเริ่มใช้งานแอพ(authen)
 ![alt text](https://user-images.githubusercontent.com/61577444/77149162-8d4ca980-6ac3-11ea-9efe-af3631f499d9.JPG)
 
 ## 3. หน้าจอ Recycler view
-### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
+### - แสดงรายการชื่อรถ(recycler)
 ![alt text](https://user-images.githubusercontent.com/61577444/77149244-ba995780-6ac3-11ea-8b89-ffef5b5fe022.JPG)
 
 ## 4. หน้า fragment_detail
-### - จะแสดงรายละเอียดแอพ (อันนี้รีไสเคิลวิว + อแดปเตอร์ json)
+### - จะแสดงรายละเอียดของรถและราคา (detail)
 ![alt text](https://user-images.githubusercontent.com/61577444/77148059-57a6c100-6ac1-11ea-9cb1-506947f2f908.JPG)
 
 ## 5. หน้า fragment show_data
-### - ส่งค่าจากรีไสเคิลเฉยๆ
+### - มีปุ่มสำหรับกดเพื่อแสดงdialog 
 ![alt text](https://user-images.githubusercontent.com/61577444/77149378-03e9a700-6ac4-11ea-85ed-4ce9425db3bd.JPG)
 
 ## 6. หน้า แสดงDialog เพื่อกดยืนยัน
-### - ส่งค่าจากรีไสเคิลเฉยๆ
+### - แสดงdialog เพื่อกดยืนยัน
 ![alt text](https://user-images.githubusercontent.com/61577444/77149433-27aced00-6ac4-11ea-9f2e-fdadadb502d6.JPG)
 
 ## 7. หน้าแสดง Graph
